@@ -16,3 +16,7 @@ https://www.linkedin.com/in/-aishwaryasaibura/details/certifications/
 ### ✅ Airtable Certification
 
 https://verify.skilljar.com/c/q7i28xb5m3cv
+
+ ### ✅ Python Certification
+
+https://www.geeksforgeeks.org/certificate/72182777629632c6f0c036c9ac35975a?utm_source=socials&utm_medium=cc_link
