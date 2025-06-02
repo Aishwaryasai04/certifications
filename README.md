@@ -3,7 +3,7 @@
 
 ### ✅ Machine Learning Certificate - Great Learning
 
-[🔗 View Certificate](https://www.mygreatlearning.com/certificate/DUIQYSHR)
+[🔗 View Certificate](https://olympus.mygreatlearning.com/courses/61719/certificate?pb_id=581)
 
 ### ✅ Python for Data Science, AI & Development - IBM
 
